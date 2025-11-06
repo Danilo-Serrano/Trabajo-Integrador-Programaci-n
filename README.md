@@ -48,7 +48,7 @@ Dicho programa al ejecutarse mostrará en consola un menú principal con 6 opcio
 
 ![Descripción de la imagen](https://github.com/Danilo-Serrano/Trabajo-Integrador-Programaci-n/blob/df20754ea18a67db0697171c5f8731859ca6bb92/Captura_de_pantalla_2025-10-30_215851.png)
 
-![Descripción de la imagen](../Integrador%20Programacion/Captura_de_pantalla_2025-10-30_215916.png)
+![Descripción de la imagen](https://github.com/Danilo-Serrano/Trabajo-Integrador-Programaci-n/blob/fd81104d3826df8735a7854b2b83dbbf2305a60b/Captura_de_pantalla_2025-10-30_215916.png)
 
 
 
